@@ -11,4 +11,5 @@ Essa é minha primeira calculadora, bem simples, só o básico que tem as seguin
   
   
   
-  Para rodar ou abra o .exe ou use o .py direto com Python.
+  Para rodar ou abra o .exe ou use o .py direto com Python.  
+  Use o .exe se não tiver Python instalado.
