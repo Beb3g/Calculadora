@@ -1,7 +1,7 @@
 # Calculadora 🔢🔥🔥🔥
 Uma calculadora 
 
-Essa é minha primeira calculador, bem simples, só o básico que tem as seguintes funções:  
+Essa é minha primeira calculadora, bem simples, só o básico que tem as seguintes funções:  
   -1 (soma)  
   -2 (subtração)  
   -3 (multiplicação)  
